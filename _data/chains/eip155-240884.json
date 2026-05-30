@@ -1,12 +1,8 @@
 {
   "name": "HIPERCAPITAL FINANCE Chain",
   "chain": "HIPCF",
-  "rpc": [
-    "https://rpc.hipercapitalfinance.com"
-  ],
-  "features": [
-    { "name": "EIP155" }
-  ],
+  "rpc": ["https://rpc.hipercapitalfinance.com"],
+  "features": [{ "name": "EIP155" }],
   "faucets": [],
   "nativeCurrency": {
     "name": "HIPERCAPITAL FINANCE Token",
